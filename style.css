@@ -63,6 +63,9 @@ section {
     align-items: center;
     text-align: center;
 }
+h1 { 
+  color:white;
+}
 
 footer {
     text-align: center;

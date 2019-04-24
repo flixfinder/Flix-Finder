@@ -14,7 +14,7 @@ header {
     background-color: #212F3C;
 }
 
-img {
+#logo img{
   max-width: 100%;
   height: auto;
 }

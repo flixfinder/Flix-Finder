@@ -28,6 +28,19 @@ header li {
     color: white;
 }
 
+nav     {
+  width: 50%;
+  display: inline-block;
+  text-align: right;
+}
+nav ul   {
+  list-style: none;
+  margin: 0;
+}
+nav ul li {
+  display: inline-block;
+}
+
 section {
     height: 100vh;
     border: 1px solid black;

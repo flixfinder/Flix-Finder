@@ -33,12 +33,15 @@ header li {
     color: white;
 }
 
-nav     {
-  width: 50%;
-  display: inline-block;
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
   text-align: right;
-    color: white;
+  padding: 14px 16px;
+  text-decoration: none;
 }
+
 nav ul   {
   list-style: none;
   margin: 0;

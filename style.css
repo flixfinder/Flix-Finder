@@ -31,7 +31,7 @@ header li {
 nav     {
   width: 50%;
   display: inline-block;
-  position: fixed;
+  text-align: right;
     color: white;
 }
 nav ul   {
@@ -47,8 +47,8 @@ section {
     border: 1px solid black;
     display: flex;
     justify-content: center;
-    align-items: right;
-    text-align: right;
+    align-items: center;
+    text-align: center;
 }
 
 footer {

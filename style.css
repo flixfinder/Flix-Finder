@@ -92,7 +92,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   font-weight: 300;
-  color: #777;
+  color: #808080;
 }
 
 /* feature boxes */
@@ -107,7 +107,7 @@ section {
 }
 .feature-box h5   {
   font-size: 20px;
-  color: #999;
+  color: #808080;
   text-transform: uppercase;
   font-weight: 300;
   letter-spacing: 2px;
